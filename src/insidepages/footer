@@ -1,0 +1,52 @@
+const FOOTER_DATA = {
+  menu: {
+    title: "Company",
+    items: [
+      {
+        title: "Link 1",
+        link: "#",
+      },
+      {
+        title: "Link 2",
+        link: "#",
+      }
+    ],
+  },
+  catalog: {
+    title: "Catalog",
+    items: [
+      {
+        title: "Link Link 1",
+        link: "#",
+      },
+      {
+        title: "LinkLink 2",
+        link: "#",
+      },
+      {
+        title: "LinkLink 3",
+        link: "#",
+      },
+      {
+        title: "LinkLink 4",
+        link: "#",
+      },
+      {
+        title: "LinkLink 5",
+        link: "#",
+      },
+      {
+        title: "LinkLink 6",
+        link: "#",
+      }
+    ],
+  },
+  contact: {
+    email: "some-mail@gmail.com",
+    tel: "777 777 777",
+    work_time: {
+      weekdays: "09:00 - 18:00",
+      weekends: "10:00 - 16:00",
+    },
+  },
+};
